@@ -29,14 +29,14 @@ We had a good hour under sail before Sara started cowering in the cockpit, shout
 
 
 <style>
-  .kevin-anisha {
-      width: 50%;
-  }
-  img {
+img {
       display: block;
       margin-left: auto;
       margin-right: auto;
       width: 70%;
+  }
+  .kevin-anisha {
+      width: 50%;
   }
   figcaption {
     text-align: center;
