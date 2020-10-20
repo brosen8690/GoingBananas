@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <figure>
-  <a href= "/assets/images/full-res/home/profile.jpg" target="_blank">
+  <a href= "/assets/images/home/profile-full.jpg" target="_blank">
     <img src="/assets/images/home/profile.jpg">
   </a>
 </figure>
