@@ -2,7 +2,7 @@
 layout: post
 title:  "The Gang Jorneys to Bodkin Creek"
 date:   2020-10-03 17:00:00 -0400
-categories: Daytrip
+categories:
 ---
 
 My lifelong friends Kevin and Eugene joined me on Bananas for a day trip to Bodkin creek. The weather was absolutely perfect today, aside from no wind. But it was a great day to 
