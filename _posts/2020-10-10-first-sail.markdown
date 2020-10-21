@@ -2,7 +2,7 @@
 layout: post
 title:  "First Sail"
 date:   2020-10-10 17:00:00 -0400
-categories:
+categories: Daytrip
 ---
 After a lot of work with my dad to fix the jib rigging on the roller furling, and a few windless days out, the stage was finally set for Banana's first real sail! Our friends Kevin and Anisha were in town and they were lucky enough to experience it with us.
 
