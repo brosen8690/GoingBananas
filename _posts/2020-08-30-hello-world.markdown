@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2020-08-30 16:10:11 -0400
-categories:
+categories: introduction
 ---
 I purchased Bananas on 8/19/2020 and the following weekend, she made the trip from Essex, Maryland to Sparrow's Point with no drama.
 

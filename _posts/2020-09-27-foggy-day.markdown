@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Foggy Day"
+date:   2020-09-27 17:00:00 -0400
+categories: daytrip
+---
+
+Went on a journey to Rock Creek today with my friend Justin. It was exceptionally foggy, which was a new experience. Justin was understandably nervous about the fog, but luckily boats are slow enough and the river is wide enough that we weren't in danger of any collisions.
+
+We tried to catch some wind with the newly rigged sails, but it wasn't happening today (most likely a user error on my part). But we still had a good time powering around and listening to SahBabii, the God-tier boat music.
+
+<figure>
+  <a href= "/assets/images/2020/09/27/justin-full.jpg" target="_blank">
+    <img src="/assets/images/2020/09/27/justin.jpg">
+  </a>
+  <figcaption>Justin watches one season of Below Deck and now he's a pro.</figcaption>
+</figure>
+
+<style>
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
+  figcaption {
+    text-align: center;
+  }
+</style>
